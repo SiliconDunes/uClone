@@ -1,4 +1,7 @@
+![62_1x_shots_so](https://github.com/user-attachments/assets/87efa436-f17a-4aeb-b109-44d0de59f330)
+
 # uClone AI
+
 Transform your business with an AI chatbot that answers customer questions, captures leads, books appointments and drives conversions.
 
 To begin using uClone, navigate to the uClone.me website and click the Start Now for Free button. You’ll need to create an account by entering your email and creating a password.
