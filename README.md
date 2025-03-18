@@ -1,8 +1,8 @@
-![62_1x_shots_so](https://github.com/user-attachments/assets/87efa436-f17a-4aeb-b109-44d0de59f330)
+![uclone_web_banner](https://github.com/user-attachments/assets/0130af91-27aa-454a-bbae-45018fe03dd9)
 
-# uClone AI
+# uClone
 
-Transform your business with an AI chatbot that answers customer questions, captures leads, books appointments and drives conversions.
+The iPhone quality of customer service for your business. The faster you resolve customer issues, the more loyal they become. 
 
 To begin using uClone, navigate to the uClone.me website and click the Start Now for Free button. You’ll need to create an account by entering your email and creating a password.
 
@@ -16,7 +16,7 @@ The uClone Platform is currently supported with 5+ languages works across all de
 - Czeck
 - German
 - Polish
-- 
+
 and 50+ languages available for your customers.
 
 # Free Features
@@ -42,7 +42,5 @@ and 50+ languages available for your customers.
 
 * * *
 uClone is built with latest development tools and design patterns.
-- Written in Next.js / React
-- Typescript / Node.js
-- Pinecone
+- Pinecone Vector Database
 - Openrouter.ai
